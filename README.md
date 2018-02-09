@@ -21,4 +21,4 @@ Should have libraries like pyautogui,pip and numpy.
 For linux open pip.sh file to install pip in your distros.
 
 
-for windows  open pip.bat file to install pip in your distros.
+For windows  open pip.bat file to install pip in your distros.

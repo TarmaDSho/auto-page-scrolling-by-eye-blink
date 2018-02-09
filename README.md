@@ -17,8 +17,13 @@ You also be needing opencv installed in your device.
 Should have libraries like pyautogui,pip and numpy.
 
 
-
+First install pip in your computer.
 For linux open pip.sh file to install pip in your distros.
 
 
 For windows  open pip.bat file to install pip in your distros.
+
+Then install nessesary libraries in your distros:
+  For linux(ubuntu):open libraries.sh
+  
+  For windows:open libraries.bat
